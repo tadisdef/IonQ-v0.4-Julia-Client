@@ -5,6 +5,7 @@ This project provides a clean Julia client for the IonQ Quantum Cloud REST API v
 It is built around a small circuit abstraction, API wrapper, polling helper, and result-decoding utilities so you can submit jobs without manually crafting every JSON payload by hand.
 
 This was built by Andrew Edwards https://github.com/tadisdef
+
 Be sure to get your API key for the free simulator at https://cloud.ionq.com/
 
 ## Features
